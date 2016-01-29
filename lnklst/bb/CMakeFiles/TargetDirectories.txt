@@ -1,0 +1,2 @@
+/home/jaronhalt/dev/lnklst/bb/CMakeFiles/lnklst_main.dir
+/home/jaronhalt/dev/lnklst/bb/lnklst/CMakeFiles/lnklst.dir

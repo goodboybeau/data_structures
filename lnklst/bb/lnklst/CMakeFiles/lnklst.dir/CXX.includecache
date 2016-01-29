@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jaronhalt/dev/lnklst/src/lnklst/../include/lnklst.hpp
+memory
+-
+iostream
+-
+stdexcept
+-
+sstream
+-
+
+/home/jaronhalt/dev/lnklst/src/lnklst/lnklst.cpp
+lnklst.hpp
+-
+

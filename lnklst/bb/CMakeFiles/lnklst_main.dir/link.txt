@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -std=c++0x   CMakeFiles/lnklst_main.dir/lnklst_main.cpp.o  -o lnklst_main -rdynamic lnklst/liblnklst.a 

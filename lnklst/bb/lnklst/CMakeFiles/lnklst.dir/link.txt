@@ -1,0 +1,2 @@
+/usr/bin/ar cq liblnklst.a  CMakeFiles/lnklst.dir/lnklst.cpp.o
+/usr/bin/ranlib liblnklst.a
